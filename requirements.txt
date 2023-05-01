@@ -2,7 +2,7 @@ jinja2
 pyyaml
 kubernetes==8.0.1
 kafka-python==1.4.7
-flask==1.0.2
+flask==2.3.2
 flask_restful
 requests
 python-dateutil
